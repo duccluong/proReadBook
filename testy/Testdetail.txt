@@ -1,0 +1,11 @@
+imagePath scaledImage.png
+width:  500 height:  281
+sum = 1116 dem= 80
+kc =  11
+Start Crop Words Img From Img
+imagePath scaledImage.png
+width:  500 height:  281
+Recognized: "điễ"
+Probability: 0.13789687
+điễ
+điễ 
